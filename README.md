@@ -50,6 +50,10 @@
 * *Headers*
 
  <img src="https://www.tutlane.com/images/rabbitmq/rabbitmq_headers_exchange_process_flow_diagram.PNG" width="700">
+ 
+##### Dead Letter Queue
+
+ <img src="https://dzone.com/storage/temp/13106068-1583492541238.png" width="700">
 
 ### **Installation**
 
@@ -64,6 +68,9 @@ For Windows
 
 * [Windows](https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-installation)
 
-### **Links**
-[Exchanges](https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-exchanges)
+### **Useful Links**
+[Tutorial](https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-exchanges)
 
+[Retry and Error handling](https://dzone.com/articles/spring-boot-rabbitmq-tutorial-retry-and-error-hand)
+
+[Installation](https://www.tutlane.com/tutorial/rabbitmq/rabbitmq-installation)
